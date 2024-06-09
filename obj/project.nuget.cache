@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9AxmXKWvAnI=",
+  "dgSpecHash": "p7iE8XBzsn4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\ESPE\\ITIN 202450\\Arqutectura de Software\\SistemaAviacionCivil\\SistemaAviacionCivil.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\proyecto_arquitectura_RestApi\\SistemaAviacionCivil.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

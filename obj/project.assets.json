@@ -8016,11 +8016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\ESPE\\ITIN 202450\\Arqutectura de Software\\SistemaAviacionCivil\\SistemaAviacionCivil.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\proyecto_arquitectura_RestApi\\SistemaAviacionCivil.csproj",
       "projectName": "SistemaAviacionCivil",
-      "projectPath": "C:\\Users\\LENOVO\\Desktop\\ESPE\\ITIN 202450\\Arqutectura de Software\\SistemaAviacionCivil\\SistemaAviacionCivil.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\proyecto_arquitectura_RestApi\\SistemaAviacionCivil.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Desktop\\ESPE\\ITIN 202450\\Arqutectura de Software\\SistemaAviacionCivil\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\proyecto_arquitectura_RestApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

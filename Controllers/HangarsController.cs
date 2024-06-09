@@ -11,7 +11,6 @@ using SistemaAviacionCivil.Models;
 namespace SistemaAviacionCivil.Controllers
 {
     [Route("api/[controller]")]
-    [Authorize]
     [ApiController]
     public class HangarsController : ControllerBase
     {
